@@ -4,7 +4,7 @@
 class SoftwareEngineer:
     def __init__(self):
         self.full_name = "Fachry Ferdiansyah Sembiring"
-        self.education = "Software Engineering student at State Polytechnic of Medan"
+        self.education = "Software Engineering student at Medan State Polytechnic"
         self.mindset = "Debug first, panic later."
 
     def nightly_commit(self):
